@@ -1,0 +1,25 @@
+{
+  "name": "freebitcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2captcha": "^2.1.6",
+    "@luminati-io/socksv5": "0.0.7",
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "image-to-base64": "^2.1.1",
+    "mariadb": "^2.5.3",
+    "node-html-parser": "^3.1.3",
+    "prompt": "^1.1.0",
+    "sequelize": "^6.6.2",
+    "socket.io": "^4.0.1"
+  }
+}
